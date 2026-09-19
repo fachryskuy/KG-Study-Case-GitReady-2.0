@@ -16,7 +16,7 @@ Deskripsi singkat 1-2 kalimat tentang project ini (contoh: "DevCard adalah halam
 
 ![Screenshot](./banner.png)
 
-Live Demo: [link-demo-jika-ada](#)
+Live Demo: tidak ada
 
 ---
 
