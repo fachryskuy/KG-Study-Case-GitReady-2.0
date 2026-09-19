@@ -14,7 +14,7 @@ Deskripsi singkat 1-2 kalimat tentang project ini (contoh: "DevCard adalah halam
 
 <!-- Tempel screenshot tampilan halaman di sini, atau link demo (misalnya GitHub Pages).-->
 
-![Screenshot](link-screenshot-kamu.png)
+![Screenshot](./banner.png)
 
 Live Demo: [link-demo-jika-ada](#)
 
@@ -53,7 +53,7 @@ Live Demo: [link-demo-jika-ada](#)
 
 1. Clone repository ini:
    ```bash
-   git clone <url-repo-kalian>
+   git clone https://github.com/fachryskuy/KG-Study-Case-GitReady-2.0
    ```
 2. Buka folder hasil clone, lalu klik dua kali file `index.html` (atau klik kanan → Open with → Browser).
 
